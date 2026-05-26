@@ -1,0 +1,16 @@
+{
+  "name": "com.hungnt.advertisement",
+  "version": "1.0.2",
+  "displayName": "com.hungnt.advertisement",
+  "description": "Ads abstraction (IAdsService), multi-provider implementations (MAX, AdMob, IronSource stubs), and Service Locator integration. Depends on com.hungnt.core; optional com.applovin.mediation.ads when USE_MAX. AdMob/IronSource code is behind scripting defines; Google Mobile Ads / IronSource SDKs are wired in the consuming project.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.hungnt.core": "1.0.2",
+    "com.applovin.mediation.ads": "8.6.3"
+  },
+  "author": {
+    "name": "HungNT",
+    "url": "https://github.com/HungNT-UPM"
+  },
+  "license": "MIT"
+}
