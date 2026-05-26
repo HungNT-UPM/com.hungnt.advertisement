@@ -1,0 +1,17 @@
+{
+    "name": "HungNT.Advertisement",
+    "rootNamespace": "HungNT.Advertisement",
+    "references": [
+        "HungNT.Core",
+        "MaxSdk.Scripts"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
