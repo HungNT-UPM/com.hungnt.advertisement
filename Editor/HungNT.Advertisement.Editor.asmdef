@@ -1,0 +1,19 @@
+{
+    "name": "HungNT.Advertisement.Editor",
+    "rootNamespace": "HungNT.Advertisement.Editor",
+    "references": [
+        "HungNT.Advertisement",
+        "HungNT.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
